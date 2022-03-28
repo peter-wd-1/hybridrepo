@@ -2,3 +2,7 @@
 	path = frontend/react-typescript-node-bolierplate
 	url = https://github.com/peter-wd-1/react-typescript-node-bolierplate.git
 	branch = main
+[submodule "frontend/nodents-bolierplate"]
+	path = frontend/nodents-bolierplate
+	url = https://github.com/peter-wd-1/nodents-bolierplate.git
+	branch = main

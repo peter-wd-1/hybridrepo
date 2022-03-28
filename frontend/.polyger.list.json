@@ -3,6 +3,10 @@
     "react-typescript-node-bolierplate": {
       "url": "github.com/peter-wd-1/react-typescript-node-bolierplate.git",
       "branch": "main"
+    },
+    "nodents-bolierplate": {
+      "url": "github.com/peter-wd-1/nodents-bolierplate.git",
+      "branch": "main"
     }
   }
 }
