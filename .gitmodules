@@ -1,0 +1,4 @@
+[submodule "frontend/react-typescript-node-bolierplate"]
+	path = frontend/react-typescript-node-bolierplate
+	url = https://github.com/peter-wd-1/react-typescript-node-bolierplate.git
+	branch = main

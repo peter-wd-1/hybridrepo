@@ -1,0 +1,8 @@
+{
+  "package": {
+    "react-typescript-node-bolierplate": {
+      "url": "github.com/peter-wd-1/react-typescript-node-bolierplate.git",
+      "branch": "main"
+    }
+  }
+}
